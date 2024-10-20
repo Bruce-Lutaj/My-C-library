@@ -17,8 +17,8 @@ char	*ft_strrchr(const char *str, int c)
 /*
 int main(void)
 {
-	const char s[] = "fortifica";
-	int c = 'f';
+	const char s[] = "oipok";
+	int c = 'i';
 	printf("%s", ft_strrchr(s, c));
 	printf("%s", strrchr(s, c));
 	return(0);
