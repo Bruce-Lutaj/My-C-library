@@ -105,6 +105,5 @@ int	main(void)
 		free(split[j]);
 		j++;
 	}
-	free(split);
 	return (0);
 }*/
