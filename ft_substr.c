@@ -28,6 +28,5 @@ int	main(void)
 	char s[] = "SBROLGFORS";
 	char *substr = ft_substr(s, 4, 4);
 	printf("sottostringa: %s", substr);
-	free(substr);
 	return (0);
 }*/
