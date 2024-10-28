@@ -20,6 +20,7 @@ char	*ft_strdup(const char *s)
 /*
 int main(void)
 {
+
 	char s[] = "redfoil";
 	printf("stringa duplicata: %s", ft_strdup(s));
 	return (0);
