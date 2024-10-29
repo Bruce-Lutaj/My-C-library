@@ -34,6 +34,5 @@ int	main(void)
 	char s2[] = " mela";
 	char *strjoin = ft_strjoin(s1, s2);
 	printf("nuova stringa creata: %s", strjoin);
-	free (strjoin);
 	return (0);
 }*/
