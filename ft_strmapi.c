@@ -32,6 +32,5 @@ int main (void)
 	char s[] = "rogorit";
 	char *even_upped = ft_strmapi(s, ft_toupper2);
 	printf("%s", even_upped);
-	free (even_upped);
 	return(0);
 }*/
